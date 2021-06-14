@@ -16,12 +16,12 @@ Proiectul se bazeaza pe functionalitatea unor componente precum senzori, releu e
 
 Acest proiect este un demo si este impartit in mai multe parti: senzori, controler, afisaj. 
 Pentru crearea camerei vom folosi o cutie de carton, iar pe laturile sale vom plasa senzorii de proximitate si pe mijloc ecranul LCD pentru a putea vizualiza mesajele.
+|||
+|:----|:---|
+|![](IMG/1.jpeg)|![](IMG/2.jpeg)|
+|![](IMG/3.jpeg)|
 
-![](IMG/1.jpeg)
-![](IMG/2.jpeg)
-![](IMG/3.jpeg)
-
-![](https://github.com/sroxanaandreea/Person-Counter/blob/main/Schema%20electrica/schema_electrica_1.png)
+![](https://github.com/sroxanaandreea/Person-Counter/blob/main/Schema%20electrica/schema_electrica_1.png)|
 
 Unul dintre senzorii de proximitate va fi amplatsat pe latura stanga a cutiei(il vom numi senzor 1), iar al doilea pe latura dreapta a cutiei(il vom numi senzor 2). In momentul in care o persoana/obiect trece la mai putin de 50cm distanta de senzorul din dreapta, incep o secventa in care pun 1 care este semnalul ca senzorul 1 a fost activat. Daca o persoana/obiect trece la mai putin de 50cm de senzorul din stanga, incep secventa cu 2, semnal ca cel de-al doilea senzor a fost activat. 
 
